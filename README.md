@@ -1,4 +1,7 @@
 # DragAndDropKit
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Static Badge](https://img.shields.io/badge/iOS-v14-blue)
+![Static Badge](https://img.shields.io/badge/Swift-5.4-orange)
 
 ## What is DragAndDropKit?
 > DragAndDropKit allows you to implement drag and drop functionality easily in your SwiftUI projects without any effort.
