@@ -11,6 +11,9 @@
 
 ## ✔️ Example Code
 ```swift
+import SwiftUI
+import DragAndDropKit
+
 struct DragAndDropPractice: View {
     
     @State var items: [Item] = Array(1...20).map { Item(id: $0) }
